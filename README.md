@@ -1,6 +1,15 @@
 # Acidobacteriota-PGPT-analysis
 Scripts and workflows for the genome-wide identification and comparative analysis of plant growth-promoting traits (PGPTs) in Acidobacteriota using DIAMOND and PLABASE.
 
+## Reference data
+
+The `reference_data/` directory contains ontology and mapping files required for PGPT annotation and downstream analyses. In particular, it includes the PLaBAse ontology used to assign protein hits to plant growth-promoting trait (PGPT) categories.
+
+PLaBAse is a curated web resource for analysing the plant growth-promoting potential of plant-associated bacteria.
+
+Reference:
+Patz S, Gautam A, Becker M, Ruppel S, Rodríguez-Palenzuela P, Huson DH. PLaBAse: A comprehensive web resource for analyzing the plant growth-promoting potential of plant-associated bacteria. bioRxiv, 2021.
+
 ReadMe PGPT Pipeline
 
 --------------------------------------------------
